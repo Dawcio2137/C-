@@ -1,0 +1,37 @@
+// 1
+//Console.WriteLine("PI = {0:#.####}", Math.PI);
+
+// 2
+//Console.WriteLine(Math.Sqrt(Math.PI));
+
+// 3
+
+//using System;
+//class Circle
+//{
+//    static void Main(string[] args)
+//    {
+//        Console.Write("podaj promien: ");
+//        double Radious = Convert.ToDouble(Console.ReadLine());
+//        double Area = Math.PI * Radious * Radious;
+//        Console.WriteLine("Objetosc: " + Area);
+//        Console.ReadKey();
+//    }
+//}
+
+// 4
+
+//Console.Write("podaj pierwsza liczbe: ");
+//    Double a = Convert.ToDouble(Console.ReadLine());
+//Console.Write("podaj druga liczbe: ");
+//Double b = Convert.ToDouble(Console.ReadLine());
+//Console.WriteLine(a / b);
+
+// 5
+
+//Console.Write("podaj pierwsza liczbe: ");
+//    Double a = Convert.ToDouble(Console.ReadLine());
+//Console.Write("podaj druga liczbe: ");
+//Double b = Convert.ToDouble(Console.ReadLine());
+//Console.WriteLine(a / b);
+//Console.WriteLine(a % b);
