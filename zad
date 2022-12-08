@@ -35,3 +35,14 @@
 //Double b = Convert.ToDouble(Console.ReadLine());
 //Console.WriteLine(a / b);
 //Console.WriteLine(a % b);
+
+// 6
+
+//Console.Write("Podaj pierwsza liczbe: ");
+//Double a = Convert.ToDouble(Console.ReadLine());
+//Console.Write("Podaj druga liczbe: ");
+//Double b= Convert.ToDouble(Console.ReadLine());
+//Console.WriteLine(a + b);
+//Console.WriteLine(a - b);
+//Console.WriteLine(a * b);
+//Console.WriteLine(a / b);
