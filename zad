@@ -46,3 +46,110 @@
 //Console.WriteLine(a - b);
 //Console.WriteLine(a * b);
 //Console.WriteLine(a / b);
+
+
+//PĘTLE
+
+//  1
+// using System;
+// class Program
+// {
+//    static void Main(string[] args)
+//    {
+//     int x = 0, y = 0 ;
+
+// do
+// {
+//     y = 3 * x;
+//     Console.WriteLine("x = {0}", x);
+//     x++;
+
+// } while (x <= 10);
+
+
+
+//    }
+// }
+
+
+// 2
+//   using System;
+// class Program
+// {
+//    static void Main(string[] args)
+//    {
+//     int x = 0, y = 0 ;
+
+// do
+// {
+//     y = 3 * x;
+//     Console.WriteLine("x = {0}", x);
+//     x++;
+
+// } while (x <= 10);
+
+
+
+//    }
+// }
+
+// 3
+// using System;
+// class Program
+// {
+//    static void Main(string[] args)
+//    {
+
+// {
+//     for (int x = 0; x < 20; x++)
+//     Console.WriteLine("x = {0}", x);
+
+// }
+//    }
+// }
+
+// 4
+//    }
+// }
+
+// using System;
+// class Program
+// {
+//    static void Main(string[] args)
+//    {
+//     int x = 0;
+
+// do
+// {
+//     Console.WriteLine("x = {0}", -x);
+//     x++;
+
+// } while (x <= 20);
+
+
+
+//    }
+// }
+
+// 5
+
+
+// using System;
+// class Program
+// {
+//    static void Main(string[] args)
+//    {
+//     int x = 0;
+//     while (x < 21)
+
+
+// {
+//     Console.WriteLine("x = {0}", -x);
+//     x++;
+
+// } 
+
+
+
+//    }
+// }
